@@ -1,0 +1,11 @@
+.cm
+*.svn
+*.aux
+*.out
+*.log
+*.nav
+*.toc
+*.vrb
+*.snm
+*~
+*.swp
